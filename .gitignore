@@ -25,3 +25,6 @@ yarn-error.log*
 # README
 /README.md
 /client/README.md
+
+# ENV
+.env
